@@ -1,4 +1,4 @@
-###`Project Plan`:
+`Project Plan`:
 
   ✅ Set up React  
   
