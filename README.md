@@ -1,5 +1,6 @@
-###Project Plan:
+###`Project Plan`:
   ✅ Set up React 
+  
   ✅ Set up Firebase
   ✅ Set up React Router
   ✅ Build the nav bar (header)
