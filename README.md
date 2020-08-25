@@ -1,4 +1,5 @@
 ###`Project Plan`:
+
   ✅ Set up React 
   
   ✅ Set up Firebase
