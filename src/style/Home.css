@@ -1,0 +1,60 @@
+.home_image {
+  width: 99%;
+  margin-top: 0.2%;
+  margin-left: 0.5%;
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+  z-index: -1;
+  margin-bottom: -190px;
+}
+
+.image_change {
+  width: 100%;
+  height: 20%;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(255, 255, 255);
+}
+
+.image_back {
+  position: relative;
+  left: 3%;
+  cursor: pointer;
+}
+
+.image_forward {
+  position: relative;
+  left: 93%;
+  cursor: pointer;
+}
+/* 
+.image_back,
+.image_forward {
+  animation: changeForImg 4.3;
+}
+
+@keyframes changeForImg {
+  0% {
+    left: 100%;
+  }
+  25% {
+    left: 75%;
+  }
+  50% {
+    left: 50%;
+  }
+  75% {
+    left: 25%;
+  }
+  100% {
+    left: 0%;
+  }
+} */
+
+.home_row {
+  display: flex;
+  z-index: 1;
+  margin-left: 25px;
+  margin-right: 25px;
+}
